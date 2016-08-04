@@ -1,4 +1,3 @@
-layout_spectrum: 0.5464652148075402
 typography_spectrum: 0.7785310284234583
 color:
   brandStrength: 0.8420822399202734
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.5464652148075402
 name: destiny-xbox-one
 title: Die geilste deutsche Community für Destiny
+description: bei uns wird dir geholfen...
