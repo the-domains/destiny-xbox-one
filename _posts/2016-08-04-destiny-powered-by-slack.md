@@ -1,20 +1,22 @@
 ---
-description: ''
-dateModified: '2016-08-04T19:36:22.771Z'
-datePublished: '2016-08-04T19:37:54.064Z'
-title: Destiny powered by Slack
+datePublished: '2016-08-04T19:48:03.658Z'
 author: []
-publisher: {}
 via: {}
+dateModified: '2016-08-04T19:47:57.609Z'
+title: Destiny powered by Slack
+publisher: {}
+description: Wieso sind wir die beste deutsche Destiny Community?
 starred: false
 sourcePath: _posts/2016-08-04-destiny-powered-by-slack.md
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-_type: MediaObject
+url: destiny-powered-by-slack/index.html
+_context: 'http://schema.org'
+_type: Article
 
 ---
 # Destiny powered by Slack
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e96c040-bcac-41b7-b8c6-c59a49695130.jpg)
+![Destiny powered by Slack](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb22c504-3688-4ee9-8b9d-e8c1862f50ed.jpg)
 
-> Destiny powered by Slack
+Wieso sind wir die beste deutsche Destiny Community?
